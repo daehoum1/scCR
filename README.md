@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?e&logo=PyTorch&logoColor=white" /></a>
     <img src="https://img.shields.io/badge/-NeurIPS_2024-blue" />
 
-The official source code for "Gene-Gene Relationship Modeling Based on Genetic Evidence for Single-Cell RNA-Seq Data Imputation", accepted at NeurIPS 2024.
+The official source code for "[Gene-Gene Relationship Modeling Based on Genetic Evidence for Single-Cell RNA-Seq Data Imputation](https://openreview.net/forum?id=gW0znG5JCG)", accepted at NeurIPS 2024.
 
 ## Requirements
 - Python version : 3.9.16
