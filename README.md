@@ -19,8 +19,7 @@ Create a directory to save the dataset:
 mkdir dataset
 ```
 
-You can download the preprocessed data [here](https://www.dropbox.com/sh/eaujyhthxjs0d5g/AADzvVv-h2yYWaoOfs1sybKea?dl=0)
-This data was provided by the authors of "Single-cell RNA-seq data imputation using Feature Propagation", and we gratefully acknowledge their contribution.
+You can download the preprocessed data [here](https://www.dropbox.com/sh/eaujyhthxjs0d5g/AADzvVv-h2yYWaoOfs1sybKea?dl=0). This data was provided by the authors of "Single-cell RNA-seq data imputation using Feature Propagation", and we gratefully acknowledge their contribution.
 
 ## How to Run
 
