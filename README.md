@@ -1,4 +1,4 @@
-# Gene-Gene Relationship Modeling Based on Genetic Evidence for Single-Cell RNA-Seq Data Imputation
+# Gene-Gene Relationship Modeling Based on Genetic Evidence for Single-Cell RNA-Seq Data Imputation (NeurIPS 2024)
 
 <p align="center">
     <a href="https://pytorch.org/" alt="PyTorch">
